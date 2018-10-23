@@ -1,0 +1,13 @@
+html{
+    height: 1090px;
+    width: 1080px;
+    background-color: darkgray;
+}
+body{
+    height: 1090px;
+    width: 1080px;
+    background-color: darkgray;
+}
+h1{
+    text-align: center;
+}
