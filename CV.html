@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="fr-fr">
+<div class="fade-in">
+<head>
+    <link rel="stylesheet" type="text/css" href="cvcss.css">
+    <meta charset="UTF-8">
+    <title>CV</title>
+</head>
+<body>
+<div class="up">
+    <div id="header">
+        <div id="prenom">
+            Paul DEROGIS
+        </div>
+
+        <img src="photomoi.jpg"/> &nbsp;&nbsp;Apprenant à EPSI Lyon
+        <div id="photoepsi">
+            <img src="epsi.png" />
+        </div>
+        <div id="scroll">
+            <table>
+                <tr>
+                    <td><a href="#présentation">Présentation</a>&nbsp;</td>
+                    <td><a href="#formation" >Formations</a>&nbsp;</td>
+                    <td><a href="#experiences">Expériences</a>&nbsp;</td>
+                    <td><a href="#competences">Compétences</a> &nbsp;</td>
+                    <td><a href="#CI">Centres D'intérets</a></td>
+                </tr>
+            </table>
+
+        </div>
+
+
+    </div>
+    <div id="citations">
+       <h3>Quelques Citations:</h3>
+        <p class="item-1">J'ai toujours rêvé d'un ordinateur qui soit aussi facile à utiliser qu'un téléphone. Mon rêve s'est réalisé : je ne sais plus comment utiliser mon téléphone.<br>- Bjarne Stroustrup</p>
+
+        <p class="item-2">Bad programmers worry about the code. Good programmers worry about data structures and their relationships.<br>- Linus Torvald</p>
+
+        <p class="item-3">Un ordinateur en sécurité est un ordinateur éteint. Et encore !!!<br>- Bill Gates</p>
+
+    </div>
+    <div id="présentation">
+        <h1>Qui suis-je?</h1> <br>
+        <h4>Un étudiant de 19ans dans une école d'informatique, l'EPSI <br>Mon objectif professionel, travailler dans la cybersécurité</h4>
+    </div>
+    <div id="formation">
+
+    </div>
+    <div id="experiences">
+        Experience
+    </div>
+    <div id="competences">
+        compétences
+
+    </div>
+    <div id="CI">
+        Centres interets
+
+    </div>
+</div>
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<script>
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            document.getElementById("myBtn").style.display = "block";
+        } else {
+            document.getElementById("myBtn").style.display = "none";
+        }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+</script>
+</body>
+</div>
+</html>

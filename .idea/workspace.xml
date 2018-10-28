@@ -2,9 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="828e9ba6-30f1-47ed-9565-66d01c6d37b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lanmakeup/data.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lanmakeup/lanmakeup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lanmakeup/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lanmakeup/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/LaskY.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cvcss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV P. Derogis V2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/42130614_1465017053642617_7499811122782928896_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/css/AjaxLoader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/css/grabbing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/css/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/email-templates/simple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/img-profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/img-testimonial-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/img-testimonial-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/img-testimonial-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/m-logo-freelancer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/m-logo-gr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/m-logo-peopleperhour.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/m-logo-studio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/m-logo-tf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/m-logo-upwork.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/portfolio-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/portfolio-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/portfolio-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/portfolio-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/portfolio-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/portfolio-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/puff.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/rating-background.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/rating-foreground.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/img/unknown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/js/jquery-2.1.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/js/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/logomonogramme.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/sendemail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enteteCV.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanmakeup" beforeDir="false" afterPath="$PROJECT_DIR$/lanmakeup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanmakeup/.idea/lanmakeup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lanmakeup/.idea/lanmakeup.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanmakeup/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lanmakeup/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanmakeup/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lanmakeup/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanmakeup/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lanmakeup/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanmakeup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lanmakeup/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanmakeup/inscription.html" beforeDir="false" afterPath="$PROJECT_DIR$/lanmakeup/inscription.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanmakeup/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lanmakeup/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,6 +70,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-579209567">
@@ -27,45 +96,47 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1653761548">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lanmakeup/index.html">
+      <file leaf-file-name="CV.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CV.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="118">
+              <caret line="36" column="206" selection-start-line="36" selection-start-column="206" selection-end-line="36" selection-end-column="206" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#570#576#1" expanded="true" />
+                <element signature="e#531#537#0" expanded="true" />
+                <element signature="e#624#630#0" expanded="true" />
+                <element signature="e#720#726#0" expanded="true" />
+                <element signature="n#div#1;n#div#0;n#body#0;n#div#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#div#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#body#0;n#div#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#0;n#body#0;n#div#0;n#html#0;n#!!top" />
+                <element signature="n#script#0;n#body#0;n#div#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="lanmakeup.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lanmakeup/lanmakeup.css">
+      <file leaf-file-name="cvcss.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cvcss.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="404">
+              <caret line="181" column="26" selection-start-line="181" selection-start-column="26" selection-end-line="181" selection-end-column="26" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lanmakeup/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Login_v1/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-102" />
           </provider>
         </entry>
       </file>
@@ -74,12 +145,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lanmakeup" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -87,6 +160,10 @@
         <option value="$PROJECT_DIR$/lanmakeup/index.html" />
         <option value="$PROJECT_DIR$/lanmakeup/lanmakeup.css" />
         <option value="$PROJECT_DIR$/lanmakeup/js/script.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/script.js" />
+        <option value="$PROJECT_DIR$/CV.html" />
+        <option value="$PROJECT_DIR$/cvcss.css" />
       </list>
     </option>
   </component>
@@ -99,7 +176,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -121,28 +198,6 @@
               <item name="webepsi" type="b2602c69:ProjectViewProjectNode" />
               <item name="webepsi" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="webepsi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webepsi" type="462c0819:PsiDirectoryNode" />
-              <item name="lanmakeup" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webepsi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webepsi" type="462c0819:PsiDirectoryNode" />
-              <item name="lanmakeup" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webepsi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webepsi" type="462c0819:PsiDirectoryNode" />
-              <item name="Login_v1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webepsi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webepsi" type="462c0819:PsiDirectoryNode" />
-              <item name="Login_v1" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -150,6 +205,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -187,20 +244,26 @@
       <workItem from="1540234659670" duration="13000" />
       <workItem from="1540234873625" duration="413000" />
       <workItem from="1540295201258" duration="2354000" />
+      <workItem from="1540722825000" duration="64000" />
+      <workItem from="1540722925187" duration="3999000" />
+      <workItem from="1540726999809" duration="738000" />
+      <workItem from="1540743064657" duration="7145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2780000" />
+    <option name="totallyTimeSpent" value="14726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25208333" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.3280757" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -223,6 +286,77 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cvcss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#570#576#1" expanded="true" />
+            <element signature="e#531#537#0" expanded="true" />
+            <element signature="e#624#630#0" expanded="true" />
+            <element signature="e#720#726#0" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#div#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#div#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#div#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#div#0;n#html#0;n#!!top" />
+            <element signature="n#script#0;n#body#0;n#div#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lanmakeup/identifiants.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lanmakeup/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lanmakeup/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login_v1/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lanmakeup/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login_v1/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lanmakeup/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lanmakeup/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -231,24 +365,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Login_v1/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lanmakeup/lanmakeup.css">
+    <entry file="file://$PROJECT_DIR$/lanmakeup/lanmakeup.css" />
+    <entry file="file://$PROJECT_DIR$/HTML/index.html" />
+    <entry file="file://$PROJECT_DIR$/lanmakeup/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lanmakeup/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -256,6 +387,98 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvcss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#570#576#1" expanded="true" />
+            <element signature="e#531#537#0" expanded="true" />
+            <element signature="e#624#630#0" expanded="true" />
+            <element signature="e#720#726#0" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#div#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#div#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#div#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#div#0;n#html#0;n#!!top" />
+            <element signature="n#script#0;n#body#0;n#div#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login_v1/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lanmakeup/lanmakeup.css" />
+    <entry file="file://$PROJECT_DIR$/HTML/index.html" />
+    <entry file="file://$PROJECT_DIR$/lanmakeup/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lanmakeup/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lanmakeup/identifiants.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="36" column="206" selection-start-line="36" selection-start-column="206" selection-end-line="36" selection-end-column="206" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#570#576#1" expanded="true" />
+            <element signature="e#531#537#0" expanded="true" />
+            <element signature="e#624#630#0" expanded="true" />
+            <element signature="e#720#726#0" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#div#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#div#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#div#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#div#0;n#html#0;n#!!top" />
+            <element signature="n#script#0;n#body#0;n#div#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvcss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="181" column="26" selection-start-line="181" selection-start-column="26" selection-end-line="181" selection-end-column="26" />
         </state>
       </provider>
     </entry>
